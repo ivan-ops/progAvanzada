@@ -25,4 +25,160 @@ ES EL NUCLEO DE TODAS LAS HERRAMIENTAS QUE UTILIZAMOS HOY EN DIA, CASI TODOS USA
 PORQUE PYTHON 
 PYTHON ES UN LENGUAJE  QUE SU SINTAXIS SIMPLE, CLARA Y SENCILLA PUEDE  AUTOMATIZAR TAREAS COMO: MOVER Y RENOMBRAR MILES DE ARCHIVOS Y CLASIFICARLOS EN FOLDER LLENAR DE FORMA AUTOMATICA FORMATOS DE INTERNET, DESCARGAR ARCHIVOS O EXTRAER FORMATOS DE PAGINAS DE INTERNET 
 
+# Ejercicio 61
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_61.py
+
+# Ejercicio 62
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_62.py
+
+# Ejercicio  63
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_63.py
+
+# Ejercicio 64
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_64.py
+
+# Ejercicio 65
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_65.py
+
+# Ejercicio 66
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_66.py
+
+# Ejercicio 67
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_67.py
+
+#  Ejercicio 68  
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_68.py
+
+# Ejercicio 69
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_69.py
+
+# Ejercicio 70
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_70.py
+
+# Ejrcicio 71
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_71.py
+
+# Ejercicio 72
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_72.py
+
+# Ejercicio 73
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_73.py
+
+# Ejercicio 74
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_74.py
+
+# Ejercicio 75
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_75.py
+
+# Ejercicio 76
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_76.py
+
+# Ejercicio 77
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_77.py
+
+# Ejercicio 78
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_78.py
+
+# Ejercicio 79
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_79.py
+
+# Ejercicio 80
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_80.py
+
+# Ejercicio  81
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_81.py
+
+# Ejercicio 84
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_84.py
+
+# Ejercicio 85
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_85.py
+
+# Ejercicio 86
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_86.py
+
+# Ejercicio 87
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_87.py
+
+# Ejercicio 89
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_89.py
+
+# Ejercicio 90
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_90.py
+
+# Ejercicio 91
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_91.py
+
+# Ejercicio 92
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_92.py
+
+# Ejercicio 93
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_93.py
+
+# Ejercicio 94
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_94.py
+
+# Ejercicio 95
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_95.py
+
+# Ejercicio 96
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_96.py
+
+# Ejercicio 97
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_97.py
+
+# Ejercicio 98
+https://github.com/ivan-ops/progAvanzada/blob/master/Ejercicio_98.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
